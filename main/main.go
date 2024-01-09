@@ -8,5 +8,5 @@ import (
 
 func main() {
 	fmt.Println("-- start the main function --")
-	syncT.SynctestRaceCondition()()
+	syncT.SynctestRaceCondition()
 }
