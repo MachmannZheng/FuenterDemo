@@ -2,6 +2,6 @@ package synctest
 
 import "fmt"
 
-func synctestRaceCondition() {
+func SynctestRaceCondition() {
 	fmt.Println("-- execute sync test Race Condition function --")
 }
